@@ -2,6 +2,7 @@
 
 # security
 .env
+*.env
 
 # python
 __pycache__/
@@ -16,6 +17,8 @@ __pycache__/
 # golang
 
 # common
+log/
+data/
 .vscode/
 *.log
 *.exe
