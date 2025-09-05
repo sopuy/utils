@@ -1,0 +1,26 @@
+# ignore
+
+# security
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# golang
+
+# common
+.vscode/
+*.log
+*.exe
+*.db
+*.sqlite3
+*.sqlite
+*.swp
+*.bak
