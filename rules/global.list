@@ -8,6 +8,8 @@ DOMAIN-SUFFIX, gstatic.com
 # Amazon
 DOMAIN-SUFFIX, amazon.com
 DOMAIN-SUFFIX, amazonaws.com
+DOMAIN-SUFFIX, awsstatic.com
+DOMAIN-SUFFIX, aws.dev
 
 # Social
 DOMAIN-SUFFIX, x.com
