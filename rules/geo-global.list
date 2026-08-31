@@ -1,0 +1,15 @@
+# geo-global.list
+
+# Google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+
+# Amazon
+DOMAIN-SUFFIX, amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+
+# Social
+DOMAIN-SUFFIX, x.com
+DOMAIN-SUFFIX, twitter.com
+DOMAIN-SUFFIX, instagram.com

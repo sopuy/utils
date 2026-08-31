@@ -1,0 +1,14 @@
+# Surge geo-us.list
+
+# AI
+DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, perplexity.ai
+
+# Google Voice
+DOMAIN-SUFFIX, voice.google.com
+
