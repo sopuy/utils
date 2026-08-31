@@ -1,4 +1,6 @@
 # Surge direct list
-PROTOCOL, STUN, no-resolve 
-DOMAIN-SUFFIX, apple.com
-DOMAIN-SUFFIX, icloud.com
+PROTOCOL,STUN,no-resolve 
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apple-cloudkit.com

@@ -1,0 +1,18 @@
+# Surge GEO CN
+# 12306
+DOMAIN-SUFFIX,12306.cn
+
+# Video
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-KEYWORD,qiyi
+DOMAIN-SUFFIX,youku.com
+DOMAIN-KEYWORD,youku
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-KEYWORD,bilibili
+
+# News
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,douban.com

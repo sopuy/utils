@@ -1,17 +1,19 @@
 # geo-global.list
 
 # Google
-DOMAIN-SUFFIX, google.com
-DOMAIN-SUFFIX, googleapis.com
-DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
 
 # Amazon
-DOMAIN-SUFFIX, amazon.com
-DOMAIN-SUFFIX, amazonaws.com
-DOMAIN-SUFFIX, awsstatic.com
-DOMAIN-SUFFIX, aws.dev
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,aws.dev
+DOMAIN-SUFFIX,api.aws
+DOMAIN-SUFFIX,cloudfront.net
 
 # Social
-DOMAIN-SUFFIX, x.com
-DOMAIN-SUFFIX, twitter.com
-DOMAIN-SUFFIX, instagram.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,instagram.com
