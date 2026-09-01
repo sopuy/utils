@@ -13,10 +13,20 @@ DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,api.aws
 DOMAIN-SUFFIX,cloudfront.net
 
-DOMAIN-SUFFIX,github.com
 
 # Social
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,instagram.com
+
+# Other
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.io
+DOMAIN-KEYWORD,github
+
+# GEO
+DOMAIN-SUFFIX,.hk
+DOMAIN-SUFFIX,.sg
+DOMAIN-SUFFIX,.tw
