@@ -1,18 +1,87 @@
 # Surge GEO CN
 # 12306
 DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,12306.com
 
-# Video
-DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,iq.com
+# iQIYI
 DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-KEYWORD,qiyi
-DOMAIN-SUFFIX,youku.com
-DOMAIN-KEYWORD,youku
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-KEYWORD,bili
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,qiyi.com
 
-# News
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,douban.com
+# Youku
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,ykimg.com
+
+# Bilibili
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+
+# Tencent Video
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,video.qq.com
+
+
+# NetEase
+DOMAIN-SUFFIX,music.163.com
+
+# Finance / Banking / Payment
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpayintl.com
+DOMAIN-SUFFIX,95516.com
+
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,pingan.com
+
+# China Telecom / Mobile / Unicom
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,chinatelecom.com.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinaunicom.com
+
+# Tencent Cloud
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,tencentcloud.com
+
+# Huawei
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,huaweicloud.com
+
+# Xiaomi
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,micloud.xiaomi.net
+
+
+DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,gitee.com
+
+# Education 
+DOMAIN-SUFFIX,mooc.cn
+DOMAIN-SUFFIX,xuetangx.com
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,chaoxing.com
+
+# Government
+DOMAIN-SUFFIX,gov.cn
