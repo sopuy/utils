@@ -8,11 +8,11 @@ DOMAIN-SUFFIX,gstatic.com
 # Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,office.microsoft.com
+
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
