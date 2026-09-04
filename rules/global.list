@@ -6,12 +6,13 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 
 # Microsoft
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-KEYWORD,microsoft
 
 
 # Amazon
