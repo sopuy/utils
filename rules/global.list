@@ -7,12 +7,18 @@ DOMAIN-SUFFIX,gstatic.com
 
 # Microsoft
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,skype
+DOMAIN-KEYWORD,azure
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,msauth.com
 
