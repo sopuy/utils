@@ -13,7 +13,9 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-KEYWORD,microsoft
-
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azure.com
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
