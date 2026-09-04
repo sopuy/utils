@@ -5,6 +5,18 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 
+# Microsoft
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,msauth.com
+
+
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
