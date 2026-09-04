@@ -31,3 +31,6 @@ DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,.hk
 DOMAIN-SUFFIX,.sg
 DOMAIN-SUFFIX,.tw
+
+# Microsoft
+DOMAIN-SUFFIX,microsoftoneline.com
