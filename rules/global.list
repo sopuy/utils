@@ -31,3 +31,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,.hk
 DOMAIN-SUFFIX,.sg
 DOMAIN-SUFFIX,.tw
+
+# Others
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,onedrive.live.com
