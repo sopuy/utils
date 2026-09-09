@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,signin.aws
+DOMAIN-SUFFIX,awsapps.com
 
 
 # Social
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,github
 
 # GEO
