@@ -9,6 +9,11 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,perplexity.ai
 
+# Kiro
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,kiro.aws.dev
+
+
 # Google Voice
 DOMAIN-SUFFIX,voice.google.com
 
