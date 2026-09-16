@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
-
+DOMAIN-KEYWORD,google
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
