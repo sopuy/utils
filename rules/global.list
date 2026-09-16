@@ -39,12 +39,15 @@ DOMAIN-SUFFIX,.tw
 
 # Others
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,zvsthk.com
 DOMAIN-KEYWORD,z-library
 DOMAIN-SUFFIX,wa.me
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,bitwarden.com
+
+# Microsoft
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,appcenter.ms
 
 # Telegram
 # https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
