@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,android
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
