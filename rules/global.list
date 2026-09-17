@@ -30,11 +30,18 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,signin.aws
 DOMAIN-SUFFIX,awsapps.com
 
-# Social
+# X
+DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,grok.com
 
+
+# WhatsApp/facebook
+DOMAIN-SUFFIX,wa.me
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,threads.net
 
 # Other
 DOMAIN-SUFFIX,github.com
