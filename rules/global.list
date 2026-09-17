@@ -1,5 +1,8 @@
 # geo-global.list
 
+# Google
+DOMAIN-KEYWORD,google
+
 # Amazon
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
@@ -8,7 +11,6 @@ DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,signin.aws
 DOMAIN-SUFFIX,awsapps.com
-
 
 # Social
 DOMAIN-SUFFIX,x.com
