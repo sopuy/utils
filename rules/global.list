@@ -1,14 +1,5 @@
 # geo-global.list
 
-# Google
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,android
-
 # Amazon
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
