@@ -1,5 +1,6 @@
 # Surge direct list
-PROTOCOL,STUN,no-resolve 
+#PROTOCOL,STUN,no-resolve 
+DST-PORT,3478
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
