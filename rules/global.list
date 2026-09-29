@@ -59,6 +59,9 @@ DOMAIN-SUFFIX,.tw
 # Microsoft
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-KEYWORD,microsoft
 
 
 # Others
