@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,msauth.net
 
 
 # Others
