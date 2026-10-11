@@ -82,5 +82,5 @@ DOMAIN-KEYWORD,wikemedia
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,wileyonlinelibrary.com 
+DOMAIN-KEYWORD,wiley
 DOMAIN-SUFFIX,doi.org
