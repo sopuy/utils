@@ -80,7 +80,11 @@ DOMAIN-SUFFIX,capital.one
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,wikemedia
 DOMAIN-KEYWORD,cloudflare
+
+# Academic
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-KEYWORD,wiley
 DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,elsevier.com
