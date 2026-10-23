@@ -7,10 +7,13 @@ DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,71.com
+
 
 # Youku
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,soku.com
 
 # Bilibili
 DOMAIN-SUFFIX,bilibili.com
